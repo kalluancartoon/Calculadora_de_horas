@@ -1,5 +1,5 @@
 # Calculadora_de_horas
-_Esse projeto foi construido no intuito de ajudar o usuario a calcular suas horas trabalhadas e descobri qual o valor da sua hora trabalhada._
+_Esse projeto foi construido no intuito de ajudar o usuario a calcular suas horas trabalhadas e descobri quanto  ganha por hora trabalhada._
 ###
 #
 ### 👨🏿‍💻 Sistema Operacional que utilizo
